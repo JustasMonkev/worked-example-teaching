@@ -1,4 +1,4 @@
 interface:
   display_name: "Worked Example Teaching"
   short_description: "Concrete inline teaching examples"
-  default_prompt: "Use $worked-example-teaching to walk me through this specific topic with one concrete worked example."
+  default_prompt: "Use $worked-example-teaching to explain this command, file, error, or behavior with one evidence-grounded worked example."
